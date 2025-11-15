@@ -6,9 +6,8 @@ This is a practical, hands-on lab demonstrating how to configure VLANs and 802.1
 
 You can view the full, interactive walkthrough for this lab—complete with a detailed scenario, CLI commands, and explanations—hosted live on GitHub Pages.
 
-[**➡️ Click Here to View the Interactive Lab Demo**](https://YourUsername.github.io/VLAN-Multi-Switch-Lab/)
+[**➡️ Click Here to View the Interactive Lab Demo**](https://ahmed-el5hatib.github.io/VLAN-Multi-Switch-Lab/)
 
-*(Note: You must replace `YourUsername` and `VLAN-Multi-Switch-Lab` with your actual GitHub username and repository name after enabling GitHub Pages.)*
 
 ##  Topology (Network Diagram)
 
@@ -16,7 +15,6 @@ This is the logical topology designed for the "Pro-Dev Solutions" scenario, as i
 
 ![Lab Topology](topology.png)
 
-*(Note: You will need to upload your own Packet Tracer screenshot and name it `topology.png` for this to appear.)*
 
 ## 🗂️ Lab Files
 
